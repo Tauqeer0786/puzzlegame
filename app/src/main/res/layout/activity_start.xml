@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity">
+
+
+
+    <Button
+
+        android:id="@+id/start1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+
+        android:id="@+id/start2"
+        android:layout_below="@id/start1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start2"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+
+        android:id="@+id/start3"
+        android:layout_below="@id/start2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start3"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+
+    <Button
+
+        android:id="@+id/start4"
+        android:layout_below="@id/start3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start4"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+
+    <Button
+
+        android:id="@+id/start5"
+        android:layout_below="@id/start4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start5"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+
+    <Button
+
+        android:id="@+id/start6"
+        android:layout_below="@id/start5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start6"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+
+    <Button
+
+        android:id="@+id/start7"
+        android:layout_below="@id/start6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start7"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+
+        android:id="@+id/start8"
+        android:layout_below="@id/start7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start8"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+
+</RelativeLayout>
